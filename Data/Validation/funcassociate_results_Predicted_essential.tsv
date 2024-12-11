@@ -1,0 +1,725 @@
+# species: Saccharomyces cerevisiae
+# support: EXP, IMP, ISS, ISM, TAS, IEA, HMP, HEP, IDA, IGI, ISO, IGC, NAS, HGI, IPI, IEP, ISA, RCA, IC, HDA
+# associations retrieved on: 2021-03-09 20:32:59-05
+# gofunc built on: 2018-02-21 10:04:34.764444-05
+# gene associations file: ftp://ftp.geneontology.org/pub/go/gene-associations/gene_association.sgd.gz
+#   revision: 2018-02-02 $
+#   downloaded on: 2018-02-14 09:47:46-05
+# GO DAG files from: http://archive.geneontology.org/latest-full/go_201512-termdb-tables.tar.gz
+#   downloaded on: 2015-12-22 05:43:21-05
+# translation required: yes
+# translation info:
+#   authority: sgd
+#     synergizer db built on: 2015-10-30 14:12:01.683687-04
+#     source files:
+#       ftp://ftp.yeastgenome.org/curation/chromosomal_feature/SGD_features.tab
+#         downloaded on: 2015-10-30 10:10:58-04
+#   authority namespace: systematic
+#   gofunc namespace: sgd_systematic
+#   coverage: 99.9%
+# size of "genespace": 6425
+# number of attributes: 8098
+# NOTE: the last record consists of all the entities in the
+# "genespace" that are not associated with any attribute (for
+# the requested support).
+# Original number of entities in query: 1543
+# Number of entities in query: 1543
+# Total number of entities: 6428
+# Original total number of entities: 6425
+# Entities not in default gene space: 3
+# Total number of attributes: 8098
+# Translation required: yes
+# Translation coverage: 0.99896
+# Mode: unordered
+# Number of simulations: 1000
+# Adjusted P-value cutoff: 0.05
+# Over/under: over
+# Evidence codes: EXP, IMP, ISS, ISM, TAS, IEA, HMP, HEP, IDA, IGI, ISO, IGC, NAS, HGI, IPI, IEP, ISA, RCA, IC, HDA
+OVERREPRESENTED ATTRIBUTES
+N	X	LOD	P	P_adj	attrib ID	attrib name
+1538	4505	2.25730588699694	6.35073733344181e-269	<0.001	GO:0043229	intracellular organelle
+1538	4506	2.25693313044817	9.61662373021554e-269	<0.001	GO:0043226	organelle
+24	24	2.19740439323311	1.16829053060933e-15	<0.001	GO:0017056	structural constituent of nuclear pore
+1533	4129	2.10984680218121	0	<0.001	GO:0043227	membrane-bounded organelle
+1533	4129	2.10984680218121	0	<0.001	GO:0043231	intracellular membrane-bounded organelle
+19	19	2.09684619594565	1.54437263929452e-12	<0.001	GO:0000972	transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery
+16	16	2.02344173858385	1.14515956424077e-10	<0.001	GO:0000973	posttranscriptional tethering of RNA polymerase II gene DNA at nuclear periphery
+16	16	2.02344173858385	1.14515956424077e-10	<0.001	GO:0006367	transcription initiation from RNA polymerase II promoter
+15	15	1.99600526839272	4.8062226999023e-10	<0.001	GO:0001135	transcription factor activity, RNA polymerase II transcription factor recruiting
+1450	2130	1.98169563003837	0	<0.001	GO:0005634	nucleus
+1540	5576	1.96675208468831	3.64711812195726e-104	<0.001	GO:0044424	intracellular part
+13	13	1.93543944784619	8.45338386106314e-09	<0.001	GO:0005487	nucleocytoplasmic transporter activity
+13	13	1.93543944784619	8.45338386106314e-09	<0.001	GO:0051568	histone H3-K4 methylation
+38	39	1.92050882454324	5.9836656554958e-23	<0.001	GO:0051123	RNA polymerase II transcriptional preinitiation complex assembly
+12	12	1.90173202515	3.5425807218687e-08	0.001	GO:0000991	transcription factor activity, core RNA polymerase II binding
+12	12	1.90173202515	3.5425807218687e-08	0.001	GO:0016514	SWI/SNF complex
+12	12	1.90173202515	3.5425807218687e-08	0.001	GO:0033698	Rpd3L complex
+12	12	1.90173202515	3.5425807218687e-08	0.001	GO:0044613	nuclear pore central transport channel
+12	12	1.90173202515	3.5425807218687e-08	0.001	GO:0090544	BAF-type complex
+11	11	1.86523637044769	1.48386034545394e-07	0.001	GO:0000176	nuclear exosome (RNase complex)
+11	11	1.86523637044769	1.48386034545394e-07	0.001	GO:0000387	spliceosomal snRNP assembly
+11	11	1.86523637044769	1.48386034545394e-07	0.001	GO:0001083	transcription factor activity, RNA polymerase II basal transcription factor binding
+11	11	1.86523637044769	1.48386034545394e-07	0.001	GO:0071162	CMG complex
+1540	5755	1.84514334685278	8.22603371869825e-80	<0.001	GO:0044464	cell part
+51	53	1.82868407262254	1.07427784809777e-29	<0.001	GO:0070897	DNA-templated transcriptional preinitiation complex assembly
+10	10	1.82544453203597	6.2122737750902e-07	0.001	GO:0000172	ribonuclease MRP complex
+10	10	1.82544453203597	6.2122737750902e-07	0.001	GO:0000974	Prp19 complex
+10	10	1.82544453203597	6.2122737750902e-07	0.001	GO:0017025	TBP-class protein binding
+10	10	1.82544453203597	6.2122737750902e-07	0.001	GO:0031990	mRNA export from nucleus in response to heat stress
+10	10	1.82544453203597	6.2122737750902e-07	0.001	GO:0061187	regulation of chromatin silencing at rDNA
+29	30	1.80228159319281	2.01946759405963e-17	<0.001	GO:0006352	DNA-templated transcription, initiation
+9	9	1.78169572580554	2.5995166467885e-06	0.002	GO:0001105	RNA polymerase II transcription coactivator activity
+9	9	1.78169572580554	2.5995166467885e-06	0.002	GO:0001133	RNA polymerase II transcription factor activity, sequence-specific transcription regulatory region DNA binding
+9	9	1.78169572580554	2.5995166467885e-06	0.002	GO:0031490	chromatin DNA binding
+9	9	1.78169572580554	2.5995166467885e-06	0.002	GO:0034724	DNA replication-independent nucleosome organization
+9	9	1.78169572580554	2.5995166467885e-06	0.002	GO:0071013	catalytic step 2 spliceosome
+9	9	1.78169572580554	2.5995166467885e-06	0.002	GO:0071033	nuclear retention of pre-mRNA at the site of transcription
+9	9	1.78169572580554	2.5995166467885e-06	0.002	GO:0090576	RNA polymerase III transcription factor complex
+8	8	1.73310811821974	1.08722455194798e-05	0.012	GO:0010526	negative regulation of transposition, RNA-mediated
+8	8	1.73310811821974	1.08722455194798e-05	0.012	GO:0010529	negative regulation of transposition
+8	8	1.73310811821974	1.08722455194798e-05	0.012	GO:0031010	ISWI-type complex
+8	8	1.73310811821974	1.08722455194798e-05	0.012	GO:0031060	regulation of histone methylation
+8	8	1.73310811821974	1.08722455194798e-05	0.012	GO:0035097	histone methyltransferase complex
+8	8	1.73310811821974	1.08722455194798e-05	0.012	GO:0044615	nuclear pore nuclear basket
+8	8	1.73310811821974	1.08722455194798e-05	0.012	GO:0048188	Set1C/COMPASS complex
+8	8	1.73310811821974	1.08722455194798e-05	0.012	GO:0061188	negative regulation of chromatin silencing at rDNA
+8	8	1.73310811821974	1.08722455194798e-05	0.012	GO:0071007	U2-type catalytic step 2 spliceosome
+8	8	1.73310811821974	1.08722455194798e-05	0.012	GO:0071014	post-mRNA release spliceosomal complex
+8	8	1.73310811821974	1.08722455194798e-05	0.012	GO:0071216	cellular response to biotic stimulus
+8	8	1.73310811821974	1.08722455194798e-05	0.012	GO:0072396	response to cell cycle checkpoint signaling
+1540	5899	1.72555535182464	6.25236643765037e-61	<0.001	GO:0005575	cellular_component
+39	41	1.70999608693312	2.28270400910356e-22	<0.001	GO:0005643	nuclear pore
+22	23	1.68263941630069	3.68577985841218e-13	<0.001	GO:0001104	RNA polymerase II transcription cofactor activity
+21	22	1.66261001349421	1.48478678148045e-12	<0.001	GO:0031261	DNA replication preinitiation complex
+32	34	1.6232663928478	3.84773529558989e-18	<0.001	GO:0016973	poly(A)+ mRNA export from nucleus
+19	20	1.61963603754464	2.39099439479206e-11	<0.001	GO:0000124	SAGA complex
+19	20	1.61963603754464	2.39099439479206e-11	<0.001	GO:0034708	methyltransferase complex
+19	20	1.61963603754464	2.39099439479206e-11	<0.001	GO:0070847	core mediator complex
+18	19	1.59648837130811	9.55384359278477e-11	<0.001	GO:0006337	nucleosome disassembly
+29	31	1.58034392169205	2.41390431188256e-16	<0.001	GO:0001134	transcription factor activity, transcription factor recruiting
+17	18	1.57207009493513	3.80535541946098e-10	<0.001	GO:0006334	nucleosome assembly
+17	18	1.57207009493513	3.80535541946098e-10	<0.001	GO:0009304	tRNA transcription
+17	18	1.57207009493513	3.80535541946098e-10	<0.001	GO:0042797	tRNA transcription from RNA polymerase III promoter
+16	17	1.54623158018283	1.51042474529176e-09	<0.001	GO:0000990	transcription factor activity, core RNA polymerase binding
+16	17	1.54623158018283	1.51042474529176e-09	<0.001	GO:0005666	DNA-directed RNA polymerase III complex
+16	17	1.54623158018283	1.51042474529176e-09	<0.001	GO:0016586	RSC complex
+47	51	1.53695766832034	3.83687447975105e-25	<0.001	GO:0006368	transcription elongation from RNA polymerase II promoter
+15	16	1.5187951099917	5.97221697348691e-09	<0.001	GO:0005682	U5 snRNP
+15	16	1.5187951099917	5.97221697348691e-09	<0.001	GO:0070822	Sin3-type complex
+74	81	1.51821172827393	2.0225391439528e-38	<0.001	GO:0005667	transcription factor complex
+74	81	1.51821172827393	2.0225391439528e-38	<0.001	GO:0044798	nuclear transcription factor complex
+25	27	1.51591656756243	5.79651059262831e-14	<0.001	GO:0000055	ribosomal large subunit export from nucleus
+24	26	1.49825656333133	2.26419153053795e-13	<0.001	GO:0016592	mediator complex
+33	36	1.49049828503716	8.91328672655087e-18	<0.001	GO:0043044	ATP-dependent chromatin remodeling
+14	15	1.4895473757978	2.35137137242757e-08	0.001	GO:0005669	transcription factor TFIID complex
+207	231	1.48865334367891	5.93350111694409e-104	<0.001	GO:0044451	nucleoplasm part
+42	46	1.48720437338699	3.50980966178922e-22	<0.001	GO:0000123	histone acetyltransferase complex
+23	25	1.47987262117434	8.81327416717083e-13	<0.001	GO:0031298	replication fork protection complex
+50	55	1.477187778793	5.29894801854005e-26	<0.001	GO:0001076	transcription factor activity, RNA polymerase II transcription factor binding
+58	64	1.47074517563718	7.83814768037682e-30	<0.001	GO:0006406	mRNA export from nucleus
+22	24	1.46070174479994	3.41768331749179e-12	<0.001	GO:0003713	transcription coactivator activity
+13	14	1.45822928944517	9.21372719495611e-08	0.001	GO:0004298	threonine-type endopeptidase activity
+13	14	1.45822928944517	9.21372719495611e-08	0.001	GO:0010499	proteasomal ubiquitin-independent protein catabolic process
+13	14	1.45822928944517	9.21372719495611e-08	0.001	GO:0070003	threonine-type peptidase activity
+95	106	1.44631710641671	2.3185273022346e-47	<0.001	GO:0065004	protein-DNA complex assembly
+12	13	1.42452186674898	3.59094887515428e-07	0.001	GO:0070898	RNA polymerase III transcriptional preinitiation complex assembly
+52	58	1.42199801140255	2.60270777844037e-26	<0.001	GO:0070603	SWI/SNF superfamily-type complex
+59	66	1.41616180973076	1.46355269160237e-29	<0.001	GO:0090575	RNA polymerase II transcription factor complex
+95	107	1.41001582943657	1.59894133689603e-46	<0.001	GO:0000989	transcription factor activity, transcription factor binding
+102	115	1.4093272979622	7.9638420370289e-50	<0.001	GO:0000988	transcription factor activity, protein binding
+72	81	1.40296236339832	1.68511451397184e-35	<0.001	GO:0031965	nuclear membrane
+19	21	1.39769836604388	1.94286847864101e-10	<0.001	GO:0006379	mRNA cleavage
+19	21	1.39769836604388	1.94286847864101e-10	<0.001	GO:0070461	SAGA-type complex
+11	12	1.38802621204668	1.39094853512941e-06	0.001	GO:0001172	transcription, RNA-templated
+11	12	1.38802621204668	1.39094853512941e-06	0.001	GO:0001190	transcriptional activator activity, RNA polymerase II transcription factor binding
+11	12	1.38802621204668	1.39094853512941e-06	0.001	GO:0005665	DNA-directed RNA polymerase II, core complex
+11	12	1.38802621204668	1.39094853512941e-06	0.001	GO:0042766	nucleosome mobilization
+11	12	1.38802621204668	1.39094853512941e-06	0.001	GO:0043596	nuclear replication fork
+11	12	1.38802621204668	1.39094853512941e-06	0.001	GO:0071495	cellular response to endogenous stimulus
+11	12	1.38802621204668	1.39094853512941e-06	0.001	GO:0098811	transcriptional repressor activity, RNA polymerase II activating transcription factor binding
+26	29	1.38669138179913	1.103153649054e-13	<0.001	GO:0031126	snoRNA 3'-end processing
+48	54	1.38641728692961	5.52110743578058e-24	<0.001	GO:0003712	transcription cofactor activity
+18	20	1.37455069980735	7.39827626444849e-10	<0.001	GO:0032986	protein-DNA complex disassembly
+18	20	1.37455069980735	7.39827626444849e-10	<0.001	GO:0043634	polyadenylation-dependent ncRNA catabolic process
+18	20	1.37455069980735	7.39827626444849e-10	<0.001	GO:0071029	nuclear ncRNA surveillance
+18	20	1.37455069980735	7.39827626444849e-10	<0.001	GO:0071046	nuclear polyadenylation-dependent ncRNA catabolic process
+25	28	1.36969959178929	4.17528821132807e-13	<0.001	GO:0006383	transcription from RNA polymerase III promoter
+25	28	1.36969959178929	4.17528821132807e-13	<0.001	GO:0071004	U2-type prespliceosome
+25	28	1.36969959178929	4.17528821132807e-13	<0.001	GO:0071010	prespliceosome
+86	98	1.36433850142637	2.95755450921078e-41	<0.001	GO:0051028	mRNA transport
+17	19	1.35013242343437	2.80146657046032e-09	<0.001	GO:0008023	transcription elongation factor complex
+17	19	1.35013242343437	2.80146657046032e-09	<0.001	GO:0070210	Rpd3L-Expanded complex
+10	11	1.34823437363495	5.34964080710145e-06	0.003	GO:0000217	DNA secondary structure binding
+10	11	1.34823437363495	5.34964080710145e-06	0.003	GO:0016584	nucleosome positioning
+10	11	1.34823437363495	5.34964080710145e-06	0.003	GO:0061186	negative regulation of chromatin silencing at silent mating-type cassette
+10	11	1.34823437363495	5.34964080710145e-06	0.003	GO:0071006	U2-type catalytic step 1 spliceosome
+10	11	1.34823437363495	5.34964080710145e-06	0.003	GO:0071012	catalytic step 1 spliceosome
+50	57	1.34231119711278	2.39050646276591e-24	<0.001	GO:0006354	DNA-templated transcription, elongation
+137	159	1.3249293637652	2.22894587895576e-63	<0.001	GO:0071824	protein-DNA complex subunit organization
+29	33	1.32489351818097	1.26424683947582e-14	<0.001	GO:0000118	histone deacetylase complex
+16	18	1.32429390868207	1.05430469433318e-08	<0.001	GO:0034968	histone lysine methylation
+16	18	1.32429390868207	1.05430469433318e-08	<0.001	GO:0071035	nuclear polyadenylation-dependent rRNA catabolic process
+47	54	1.31484193438293	1.24391200387546e-22	<0.001	GO:0005684	U2-type spliceosomal complex
+22	25	1.31448476902679	2.20027736351228e-11	<0.001	GO:0071027	nuclear RNA surveillance
+46	53	1.30531116776288	4.615195002799e-22	<0.001	GO:0098781	ncRNA transcription
+9	10	1.30448556740452	2.04041200707563e-05	0.026	GO:0000294	nuclear-transcribed mRNA catabolic process, endonucleolytic cleavage-dependent decay
+9	10	1.30448556740452	2.04041200707563e-05	0.026	GO:0007129	synapsis
+9	10	1.30448556740452	2.04041200707563e-05	0.026	GO:0030015	CCR4-NOT core complex
+9	10	1.30448556740452	2.04041200707563e-05	0.026	GO:0034401	chromatin organization involved in regulation of transcription
+9	10	1.30448556740452	2.04041200707563e-05	0.026	GO:0036260	RNA capping
+9	10	1.30448556740452	2.04041200707563e-05	0.026	GO:0042134	rRNA primary transcript binding
+9	10	1.30448556740452	2.04041200707563e-05	0.026	GO:0060962	regulation of ribosomal protein gene transcription from RNA polymerase II promoter
+9	10	1.30448556740452	2.04041200707563e-05	0.026	GO:0070868	heterochromatin organization involved in chromatin silencing
+9	10	1.30448556740452	2.04041200707563e-05	0.026	GO:0097549	chromatin organization involved in negative regulation of transcription
+69	80	1.30057226207504	3.22954369186318e-32	<0.001	GO:0006338	chromatin remodeling
+448	546	1.29882262196245	3.08033896862732e-201	<0.001	GO:0006351	transcription, DNA-templated
+448	546	1.29882262196245	3.08033896862732e-201	<0.001	GO:0097659	nucleic acid-templated transcription
+15	17	1.29685743849094	3.94083870283576e-08	0.001	GO:0001078	transcriptional repressor activity, RNA polymerase II core promoter proximal region sequence-specific binding
+15	17	1.29685743849094	3.94083870283576e-08	0.001	GO:0005656	nuclear pre-replicative complex
+15	17	1.29685743849094	3.94083870283576e-08	0.001	GO:0031497	chromatin assembly
+15	17	1.29685743849094	3.94083870283576e-08	0.001	GO:0034085	establishment of sister chromatid cohesion
+15	17	1.29685743849094	3.94083870283576e-08	0.001	GO:0036387	pre-replicative complex
+15	17	1.29685743849094	3.94083870283576e-08	0.001	GO:0042790	transcription of nuclear large rRNA transcript from RNA polymerase I promoter
+15	17	1.29685743849094	3.94083870283576e-08	0.001	GO:0043175	RNA polymerase core enzyme binding
+15	17	1.29685743849094	3.94083870283576e-08	0.001	GO:0046695	SLIK (SAGA-like) complex
+15	17	1.29685743849094	3.94083870283576e-08	0.001	GO:0070063	RNA polymerase binding
+15	17	1.29685743849094	3.94083870283576e-08	0.001	GO:0070491	repressing transcription factor binding
+26	30	1.27745795406119	6.39183951234737e-13	<0.001	GO:0043566	structure-specific DNA binding
+463	571	1.27619592480376	1.87197304853566e-204	<0.001	GO:0032774	RNA biosynthetic process
+20	23	1.27348561010668	3.00926373376711e-10	<0.001	GO:0001098	basal transcription machinery binding
+20	23	1.27348561010668	3.00926373376711e-10	<0.001	GO:0001099	basal RNA polymerase II transcription machinery binding
+75	88	1.26849108006502	3.41328037285917e-34	<0.001	GO:0005681	spliceosomal complex
+14	16	1.26760970429704	1.46189675022802e-07	0.001	GO:0000460	maturation of 5.8S rRNA
+14	16	1.26760970429704	1.46189675022802e-07	0.001	GO:0003714	transcription corepressor activity
+14	16	1.26760970429704	1.46189675022802e-07	0.001	GO:0016078	tRNA catabolic process
+14	16	1.26760970429704	1.46189675022802e-07	0.001	GO:0034397	telomere localization
+14	16	1.26760970429704	1.46189675022802e-07	0.001	GO:0035267	NuA4 histone acetyltransferase complex
+14	16	1.26760970429704	1.46189675022802e-07	0.001	GO:0043189	H4/H2A histone acetyltransferase complex
+14	16	1.26760970429704	1.46189675022802e-07	0.001	GO:0071028	nuclear mRNA surveillance
+14	16	1.26760970429704	1.46189675022802e-07	0.001	GO:0071038	nuclear polyadenylation-dependent tRNA catabolic process
+14	16	1.26760970429704	1.46189675022802e-07	0.001	GO:1902562	H4 histone acetyltransferase complex
+145	172	1.26437003584998	1.86278079321171e-64	<0.001	GO:0016569	covalent chromatin modification
+25	29	1.26046616405135	2.33945337222458e-12	<0.001	GO:0006360	transcription from RNA polymerase I promoter
+30	35	1.25241904166868	1.82887300404732e-14	<0.001	GO:0031124	mRNA 3'-end processing
+19	22	1.25148139027073	1.10230659526648e-09	<0.001	GO:0016571	histone methylation
+19	22	1.25148139027073	1.10230659526648e-09	<0.001	GO:0043633	polyadenylation-dependent RNA catabolic process
+24	28	1.24280615982025	8.51410054869053e-12	<0.001	GO:0034502	protein localization to chromosome
+13	15	1.23629161794441	5.37709778147271e-07	0.001	GO:0000466	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+13	15	1.23629161794441	5.37709778147271e-07	0.001	GO:0005839	proteasome core complex
+13	15	1.23629161794441	5.37709778147271e-07	0.001	GO:0005847	mRNA cleavage and polyadenylation specificity factor complex
+13	15	1.23629161794441	5.37709778147271e-07	0.001	GO:0031491	nucleosome binding
+13	15	1.23629161794441	5.37709778147271e-07	0.001	GO:0034087	establishment of mitotic sister chromatid cohesion
+13	15	1.23629161794441	5.37709778147271e-07	0.001	GO:0071042	nuclear polyadenylation-dependent mRNA catabolic process
+13	15	1.23629161794441	5.37709778147271e-07	0.001	GO:0071047	polyadenylation-dependent mRNA catabolic process
+13	15	1.23629161794441	5.37709778147271e-07	0.001	GO:0071051	polyadenylation-dependent snoRNA 3'-end processing
+13	15	1.23629161794441	5.37709778147271e-07	0.001	GO:0098787	mRNA cleavage involved in mRNA processing
+13	15	1.23629161794441	5.37709778147271e-07	0.001	GO:0098789	pre-mRNA cleavage required for polyadenylation
+59	70	1.23016899816923	1.43489961284464e-26	<0.001	GO:0034728	nucleosome organization
+18	21	1.2283337240342	4.0091529222511e-09	<0.001	GO:0031056	regulation of histone modification
+43	51	1.22103160954603	1.13458595595828e-19	<0.001	GO:0006475	internal protein amino acid acetylation
+43	51	1.22103160954603	1.13458595595828e-19	<0.001	GO:0018393	internal peptidyl-lysine acetylation
+43	51	1.22103160954603	1.13458595595828e-19	<0.001	GO:0018394	peptidyl-lysine acetylation
+38	45	1.22100501559399	1.4572811759297e-17	<0.001	GO:0005654	nucleoplasm
+52	62	1.21336590741218	2.43639267520727e-23	<0.001	GO:0000790	nuclear chromatin
+42	50	1.21064194586757	4.0704337062795e-19	<0.001	GO:0016573	histone acetylation
+37	44	1.20928717765261	5.22458999119742e-17	<0.001	GO:0043144	snoRNA processing
+22	26	1.20525134128886	1.10686045564874e-10	<0.001	GO:0006369	termination of RNA polymerase II transcription
+22	26	1.20525134128886	1.10686045564874e-10	<0.001	GO:0035601	protein deacylation
+22	26	1.20525134128886	1.10686045564874e-10	<0.001	GO:0098732	macromolecule deacylation
+17	20	1.20391544766123	1.44683921154672e-08	<0.001	GO:0001191	transcriptional repressor activity, RNA polymerase II transcription factor binding
+17	20	1.20391544766123	1.44683921154672e-08	<0.001	GO:0005849	mRNA cleavage factor complex
+12	14	1.20258419524822	1.95882441916832e-06	0.001	GO:0000178	exosome (RNase complex)
+12	14	1.20258419524822	1.95882441916832e-06	0.001	GO:0000993	RNA polymerase II core binding
+12	14	1.20258419524822	1.95882441916832e-06	0.001	GO:0008536	Ran GTPase binding
+12	14	1.20258419524822	1.95882441916832e-06	0.001	GO:0032806	carboxy-terminal domain protein kinase complex
+12	14	1.20258419524822	1.95882441916832e-06	0.001	GO:0061587	transfer RNA gene-mediated silencing
+55	66	1.19877637851268	2.39779107891117e-24	<0.001	GO:0008134	transcription factor binding
+869	1241	1.19367480204226	0	<0.001	GO:0044428	nuclear part
+177	217	1.19147229605406	2.64850845482679e-74	<0.001	GO:0016568	chromatin modification
+21	25	1.18522193848237	3.95018658937988e-10	<0.001	GO:0006476	protein deacetylation
+21	25	1.18522193848237	3.95018658937988e-10	<0.001	GO:0016575	histone deacetylation
+53	64	1.18225403602532	3.03712973991043e-23	<0.001	GO:0000982	transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding
+130	159	1.18181607594241	1.29410079685229e-54	<0.001	GO:0005694	chromosome
+30	36	1.17977937974887	8.46369056114485e-14	<0.001	GO:0055029	nuclear DNA-directed RNA polymerase complex
+16	19	1.17807693290893	5.17688128894822e-08	0.001	GO:0000459	exonucleolytic trimming involved in rRNA processing
+16	19	1.17807693290893	5.17688128894822e-08	0.001	GO:0001227	transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding
+16	19	1.17807693290893	5.17688128894822e-08	0.001	GO:0006323	DNA packaging
+16	19	1.17807693290893	5.17688128894822e-08	0.001	GO:0008301	DNA binding, bending
+108	132	1.17603074707538	1.86697333869029e-45	<0.001	GO:0006366	transcription from RNA polymerase II promoter
+86	105	1.17058966038264	2.19306518365457e-36	<0.001	GO:0003682	chromatin binding
+11	13	1.16608854054592	7.05769021322042e-06	0.005	GO:0000056	ribosomal small subunit export from nucleus
+11	13	1.16608854054592	7.05769021322042e-06	0.005	GO:0001103	RNA polymerase II repressing transcription factor binding
+11	13	1.16608854054592	7.05769021322042e-06	0.005	GO:0034398	telomere tethering at nuclear periphery
+11	13	1.16608854054592	7.05769021322042e-06	0.005	GO:0036452	ESCRT complex
+11	13	1.16608854054592	7.05769021322042e-06	0.005	GO:0045898	regulation of RNA polymerase II transcriptional preinitiation complex assembly
+11	13	1.16608854054592	7.05769021322042e-06	0.005	GO:0090054	regulation of chromatin silencing at silent mating-type cassette
+203	253	1.16244760474929	5.23104933645858e-83	<0.001	GO:0044454	nuclear chromosome part
+307	389	1.16075484590188	2.62160574134197e-124	<0.001	GO:0044427	chromosomal part
+33	40	1.15914912336182	8.22429677639672e-15	<0.001	GO:0001085	RNA polymerase II transcription factor binding
+67	82	1.15731217104132	2.01441589343427e-28	<0.001	GO:0000785	chromatin
+37	45	1.15484048407061	2.26470711196965e-16	<0.001	GO:0006333	chromatin assembly or disassembly
+134	166	1.15382887711207	5.1893516015359e-55	<0.001	GO:0001071	nucleic acid binding transcription factor activity
+134	166	1.15382887711207	5.1893516015359e-55	<0.001	GO:0003700	transcription factor activity, sequence-specific DNA binding
+15	18	1.1506404627178	1.83485724709479e-07	0.001	GO:0000291	nuclear-transcribed mRNA catabolic process, exonucleolytic
+15	18	1.1506404627178	1.83485724709479e-07	0.001	GO:0000467	exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+15	18	1.1506404627178	1.83485724709479e-07	0.001	GO:0001047	core promoter binding
+15	18	1.1506404627178	1.83485724709479e-07	0.001	GO:0005685	U1 snRNP
+15	18	1.1506404627178	1.83485724709479e-07	0.001	GO:0006378	mRNA polyadenylation
+15	18	1.1506404627178	1.83485724709479e-07	0.001	GO:0006999	nuclear pore organization
+28	34	1.14975088499955	1.04601706398978e-12	<0.001	GO:0036003	positive regulation of transcription from RNA polymerase II promoter in response to stress
+98	121	1.14920988655296	1.52365630171736e-40	<0.001	GO:0000981	RNA polymerase II transcription factor activity, sequence-specific DNA binding
+98	121	1.14920988655296	1.52365630171736e-40	<0.001	GO:0016570	histone modification
+49	60	1.14734151393101	4.659342347616e-21	<0.001	GO:0030532	small nuclear ribonucleoprotein complex
+32	39	1.14570025539931	2.87480912110746e-14	<0.001	GO:0006353	DNA-templated transcription, termination
+19	23	1.1422479625328	4.91528084978791e-09	<0.001	GO:0030515	snoRNA binding
+35	43	1.13046139089635	2.74321998175625e-15	<0.001	GO:0001228	transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding
+43	53	1.12908311889807	2.06201634682265e-18	<0.001	GO:0043618	regulation of transcription from RNA polymerase II promoter in response to stress
+43	53	1.12908311889807	2.06201634682265e-18	<0.001	GO:0043620	regulation of DNA-templated transcription in response to stress
+47	58	1.1288491228214	5.63266886691825e-20	<0.001	GO:0097525	spliceosomal snRNP complex
+10	12	1.12629670213419	2.51076763594644e-05	0.03	GO:0000177	cytoplasmic exosome (RNase complex)
+10	12	1.12629670213419	2.51076763594644e-05	0.03	GO:0000437	carbon catabolite repression of transcription from RNA polymerase II promoter
+10	12	1.12629670213419	2.51076763594644e-05	0.03	GO:0001010	transcription factor activity, sequence-specific DNA binding transcription factor recruiting
+10	12	1.12629670213419	2.51076763594644e-05	0.03	GO:0005686	U2 snRNP
+10	12	1.12629670213419	2.51076763594644e-05	0.03	GO:0006607	NLS-bearing protein import into nucleus
+10	12	1.12629670213419	2.51076763594644e-05	0.03	GO:0006611	protein export from nucleus
+10	12	1.12629670213419	2.51076763594644e-05	0.03	GO:0009607	response to biotic stimulus
+10	12	1.12629670213419	2.51076763594644e-05	0.03	GO:0012507	ER to Golgi transport vesicle membrane
+10	12	1.12629670213419	2.51076763594644e-05	0.03	GO:0033967	box C/D snoRNA metabolic process
+10	12	1.12629670213419	2.51076763594644e-05	0.03	GO:0034963	box C/D snoRNA processing
+10	12	1.12629670213419	2.51076763594644e-05	0.03	GO:0045013	carbon catabolite repression of transcription
+10	12	1.12629670213419	2.51076763594644e-05	0.03	GO:0061408	positive regulation of transcription from RNA polymerase II promoter in response to heat stress
+10	12	1.12629670213419	2.51076763594644e-05	0.03	GO:0071034	CUT catabolic process
+10	12	1.12629670213419	2.51076763594644e-05	0.03	GO:0071043	CUT metabolic process
+78	97	1.12606595031968	5.19006489832425e-32	<0.001	GO:0001067	regulatory region nucleic acid binding
+70	87	1.12419610246148	7.4475891543046e-29	<0.001	GO:0000398	mRNA splicing, via spliceosome
+81	101	1.12143534982278	4.72991664773496e-33	<0.001	GO:0000781	chromosome, telomeric region
+14	17	1.12139272852389	6.4499673670027e-07	0.001	GO:0006282	regulation of DNA repair
+14	17	1.12139272852389	6.4499673670027e-07	0.001	GO:0034427	nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'
+14	17	1.12139272852389	6.4499673670027e-07	0.001	GO:0043928	exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay
+14	17	1.12139272852389	6.4499673670027e-07	0.001	GO:0070478	nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay
+14	17	1.12139272852389	6.4499673670027e-07	0.001	GO:1904669	ATP export
+46	57	1.11931835620135	1.94568043259477e-19	<0.001	GO:0006348	chromatin silencing at telomere
+18	22	1.11910029629627	1.71146099662611e-08	0.001	GO:0005657	replication fork
+18	22	1.11910029629627	1.71146099662611e-08	0.001	GO:0050000	chromosome localization
+22	27	1.11801218903166	4.62157609414085e-10	<0.001	GO:0031938	regulation of chromatin silencing at telomere
+22	27	1.11801218903166	4.62157609414085e-10	<0.001	GO:0071025	RNA surveillance
+34	42	1.11776433006642	9.46907878475307e-15	<0.001	GO:0001077	transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding
+76	95	1.11426544158284	6.25472694332907e-31	<0.001	GO:0000975	regulatory region DNA binding
+76	95	1.11426544158284	6.25472694332907e-31	<0.001	GO:0044212	transcription regulatory region DNA binding
+247	318	1.10904783140495	5.78767001082942e-96	<0.001	GO:0006325	chromatin organization
+139	176	1.10862859629047	7.33346346441361e-55	<0.001	GO:0098687	chromosomal region
+519	706	1.10403154828361	6.66495542300187e-196	<0.001	GO:0006355	regulation of transcription, DNA-templated
+25	31	1.10058734987435	4.32562896515932e-11	<0.001	GO:0046540	U4/U6 x U5 tri-snRNP complex
+25	31	1.10058734987435	4.32562896515932e-11	<0.001	GO:0097526	spliceosomal tri-snRNP complex
+70	88	1.09997320859451	2.80791780074771e-28	<0.001	GO:0000377	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile
+522	713	1.09826848890563	8.66269975402762e-196	<0.001	GO:1903506	regulation of nucleic acid-templated transcription
+522	713	1.09826848890563	8.66269975402762e-196	<0.001	GO:2001141	regulation of RNA biosynthetic process
+215	277	1.09756798126666	6.08468614150125e-83	<0.001	GO:0045944	positive regulation of transcription from RNA polymerase II promoter
+17	21	1.09468201992329	5.9014362578613e-08	0.001	GO:0000784	nuclear chromosome, telomeric region
+17	21	1.09468201992329	5.9014362578613e-08	0.001	GO:2001020	regulation of response to DNA damage stimulus
+13	16	1.09007464217127	2.23624945868106e-06	0.001	GO:0006521	regulation of cellular amino acid metabolic process
+43	54	1.08948549156651	7.79822459114959e-18	<0.001	GO:0031248	protein acetyltransferase complex
+43	54	1.08948549156651	7.79822459114959e-18	<0.001	GO:1902493	acetyltransferase complex
+50	63	1.08650423047317	1.97885995514222e-20	<0.001	GO:0001159	core promoter proximal region DNA binding
+49	62	1.07752735885292	6.70345713487578e-20	<0.001	GO:0000987	core promoter proximal region sequence-specific DNA binding
+529	733	1.07730562845179	7.52809489109356e-194	<0.001	GO:0051252	regulation of RNA metabolic process
+20	25	1.07701303011155	5.41510527864901e-09	<0.001	GO:0097346	INO80-type complex
+971	1580	1.07578208033462	0	<0.001	GO:0090304	nucleic acid metabolic process
+38	48	1.07460983136402	9.61000992948967e-16	<0.001	GO:0032786	positive regulation of DNA-templated transcription, elongation
+90	115	1.07437431013113	4.52391841196135e-35	<0.001	GO:0016458	gene silencing
+27	34	1.07171532511785	1.365643256797e-11	<0.001	GO:0003899	DNA-directed RNA polymerase activity
+27	34	1.07171532511785	1.365643256797e-11	<0.001	GO:0006997	nucleus organization
+27	34	1.07171532511785	1.365643256797e-11	<0.001	GO:0034062	RNA polymerase activity
+62	79	1.06953548718403	1.40691897185553e-24	<0.001	GO:0000976	transcription regulatory region sequence-specific DNA binding
+16	20	1.06884350517099	2.01328638447432e-07	0.001	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication
+16	20	1.06884350517099	2.01328638447432e-07	0.001	GO:0036388	pre-replicative complex assembly
+16	20	1.06884350517099	2.01328638447432e-07	0.001	GO:1902299	pre-replicative complex assembly involved in cell cycle DNA replication
+23	29	1.06454340348626	4.97976192403711e-10	<0.001	GO:0009303	rRNA transcription
+30	38	1.06309576640646	1.2642828998639e-12	<0.001	GO:0000428	DNA-directed RNA polymerase complex
+30	38	1.06309576640646	1.2642828998639e-12	<0.001	GO:0030880	RNA polymerase complex
+30	38	1.06309576640646	1.2642828998639e-12	<0.001	GO:0042393	histone binding
+37	47	1.06289199342264	3.23074896832791e-15	<0.001	GO:0032993	protein-DNA complex
+241	318	1.06084732099178	1.88436866557905e-89	<0.001	GO:0045893	positive regulation of transcription, DNA-templated
+241	318	1.06084732099178	1.88436866557905e-89	<0.001	GO:1902680	positive regulation of RNA biosynthetic process
+241	318	1.06084732099178	1.88436866557905e-89	<0.001	GO:1903508	positive regulation of nucleic acid-templated transcription
+318	426	1.05856707862577	9.02109527594157e-117	<0.001	GO:0006357	regulation of transcription from RNA polymerase II promoter
+40	51	1.05758382515088	2.9860864523791e-16	<0.001	GO:0032784	regulation of DNA-templated transcription, elongation
+12	15	1.05636721947508	7.65096068046681e-06	0.006	GO:0031058	positive regulation of histone modification
+12	15	1.05636721947508	7.65096068046681e-06	0.006	GO:0031939	negative regulation of chromatin silencing at telomere
+12	15	1.05636721947508	7.65096068046681e-06	0.006	GO:0070816	phosphorylation of RNA polymerase II C-terminal domain
+12	15	1.05636721947508	7.65096068046681e-06	0.006	GO:1902555	endoribonuclease complex
+33	42	1.05630870069051	1.16911880792285e-13	<0.001	GO:0032968	positive regulation of transcription elongation from RNA polymerase II promoter
+86	111	1.05354831106613	5.95266209595053e-33	<0.001	GO:0006342	chromatin silencing
+86	111	1.05354831106613	5.95266209595053e-33	<0.001	GO:0045814	negative regulation of gene expression, epigenetic
+59	76	1.04729388945251	5.30883738235871e-23	<0.001	GO:0000775	chromosome, centromeric region
+15	19	1.04140703497986	6.78777880287498e-07	0.001	GO:0044774	mitotic DNA integrity checkpoint
+561	803	1.03915090849578	5.2870127448599e-196	<0.001	GO:0019219	regulation of nucleobase-containing compound metabolic process
+35	45	1.03851290024839	3.585340537084e-14	<0.001	GO:0034243	regulation of transcription elongation from RNA polymerase II promoter
+244	327	1.03428347767274	4.27479504026671e-88	<0.001	GO:0051254	positive regulation of RNA metabolic process
+99	130	1.02593948619947	1.1328624125592e-36	<0.001	GO:0040029	regulation of gene expression, epigenetic
+190	254	1.0220591763673	2.77569506574499e-68	<0.001	GO:0045892	negative regulation of transcription, DNA-templated
+11	14	1.01987156477278	2.57835718275757e-05	0.031	GO:0000779	condensed chromosome, centromeric region
+11	14	1.01987156477278	2.57835718275757e-05	0.031	GO:0000780	condensed nuclear chromosome, centromeric region
+11	14	1.01987156477278	2.57835718275757e-05	0.031	GO:0000812	Swr1 complex
+11	14	1.01987156477278	2.57835718275757e-05	0.031	GO:0004402	histone acetyltransferase activity
+11	14	1.01987156477278	2.57835718275757e-05	0.031	GO:0005736	DNA-directed RNA polymerase I complex
+11	14	1.01987156477278	2.57835718275757e-05	0.031	GO:0030261	chromosome condensation
+11	14	1.01987156477278	2.57835718275757e-05	0.031	GO:0043486	histone exchange
+11	14	1.01987156477278	2.57835718275757e-05	0.031	GO:0061733	peptide-lysine-N-acetyltransferase activity
+118	156	1.01980821694289	4.34151014642464e-43	<0.001	GO:0000122	negative regulation of transcription from RNA polymerase II promoter
+97	128	1.0165201293485	1.24747793160655e-35	<0.001	GO:1990837	sequence-specific double-stranded DNA binding
+14	18	1.01215930078596	2.25869559115723e-06	0.001	GO:0019985	translesion synthesis
+14	18	1.01215930078596	2.25869559115723e-06	0.001	GO:0071459	protein localization to chromosome, centromeric region
+51	67	1.00789331519556	2.27418107607387e-19	<0.001	GO:0031123	RNA 3'-end processing
+17	22	1.0074428676661	2.01443943172525e-07	0.001	GO:0045943	positive regulation of transcription from RNA polymerase I promoter
+17	22	1.0074428676661	2.01443943172525e-07	0.001	GO:0051668	localization within membrane
+20	26	1.00437336819174	1.81656737496074e-08	0.001	GO:0000727	double-strand break repair via break-induced replication
+26	34	1.00089552654178	1.50483403152423e-10	<0.001	GO:0034661	ncRNA catabolic process
+194	263	0.999493476801261	5.28688888976783e-68	<0.001	GO:1902679	negative regulation of RNA biosynthetic process
+194	263	0.999493476801261	5.28688888976783e-68	<0.001	GO:1903507	negative regulation of nucleic acid-templated transcription
+1010	1795	0.9950925209471	2.24683326932207e-288	<0.001	GO:0006139	nucleobase-containing compound metabolic process
+527	771	0.993494572325365	4.82757401073458e-175	<0.001	GO:0034654	nucleobase-containing compound biosynthetic process
+803	1288	0.992773609326112	2.56155111642228e-250	<0.001	GO:0016070	RNA metabolic process
+49	65	0.990109705514048	2.38998035031628e-18	<0.001	GO:0001012	RNA polymerase II regulatory region DNA binding
+46	61	0.989327971339996	2.61921732726119e-17	<0.001	GO:0000977	RNA polymerase II regulatory region sequence-specific DNA binding
+43	57	0.988547961844627	2.86579216087809e-16	<0.001	GO:0016074	snoRNA metabolic process
+197	269	0.988483711795141	3.51916077562096e-68	<0.001	GO:0051253	negative regulation of RNA metabolic process
+37	49	0.986993089110951	3.41856605406569e-14	<0.001	GO:0000978	RNA polymerase II core promoter proximal region sequence-specific DNA binding
+37	49	0.986993089110951	3.41856605406569e-14	<0.001	GO:0006606	protein import into nucleus
+34	45	0.986218212086903	3.73024491251683e-13	<0.001	GO:0000054	ribosomal subunit export from nucleus
+34	45	0.986218212086903	3.73024491251683e-13	<0.001	GO:0006289	nucleotide-excision repair
+34	45	0.986218212086903	3.73024491251683e-13	<0.001	GO:0033753	establishment of ribosome localization
+34	45	0.986218212086903	3.73024491251683e-13	<0.001	GO:0071426	ribonucleoprotein complex export from nucleus
+34	45	0.986218212086903	3.73024491251683e-13	<0.001	GO:0071428	rRNA-containing ribonucleoprotein complex export from nucleus
+31	41	0.985445032169395	4.07085577573509e-12	<0.001	GO:0006356	regulation of transcription from RNA polymerase I promoter
+28	37	0.984673542567829	4.44655241123048e-11	<0.001	GO:0000228	nuclear chromosome
+25	33	0.983903736531934	4.86625959193156e-10	<0.001	GO:0000480	endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+22	29	0.983135607351447	5.34333414584121e-09	<0.001	GO:0022616	DNA strand elongation
+19	25	0.982369148355798	5.89858575687416e-08	0.001	GO:1990391	DNA repair complex
+182	249	0.980853313605392	1.22642496417571e-62	<0.001	GO:0043565	sequence-specific DNA binding
+47	63	0.971617314404435	2.46021429457535e-17	<0.001	GO:1902275	regulation of chromatin organization
+253	353	0.970981213598598	5.19645339377245e-85	<0.001	GO:0045935	positive regulation of nucleobase-containing compound metabolic process
+44	59	0.969655390396777	2.68844116244143e-16	<0.001	GO:0006473	protein acetylation
+27	36	0.968874902446541	1.42404192348543e-10	<0.001	GO:0000967	rRNA 5'-end processing
+27	36	0.968874902446541	1.42404192348543e-10	<0.001	GO:0034471	ncRNA 5'-end processing
+49	66	0.964466405214297	7.15291447567018e-18	<0.001	GO:0000776	kinetochore
+46	62	0.962086547784384	7.82415692096892e-17	<0.001	GO:1903308	regulation of chromatin modification
+32	43	0.959707443837784	3.80059591217304e-12	<0.001	GO:0043628	ncRNA 3'-end processing
+18	24	0.959221482119267	1.89234958044324e-07	0.001	GO:0033613	activating transcription factor binding
+18	24	0.959221482119267	1.89234958044324e-07	0.001	GO:0043631	RNA polyadenylation
+77	105	0.954587584453049	7.61232574176349e-27	<0.001	GO:0018205	peptidyl-lysine modification
+15	20	0.954167882722668	2.11069583487108e-06	0.001	GO:0016925	protein sumoylation
+15	20	0.954167882722668	2.11069583487108e-06	0.001	GO:0060260	regulation of transcription initiation from RNA polymerase II promoter
+15	20	0.954167882722668	2.11069583487108e-06	0.001	GO:1903310	positive regulation of chromatin modification
+15	20	0.954167882722668	2.11069583487108e-06	0.001	GO:2000142	regulation of DNA-templated transcription, initiation
+26	35	0.952501797452473	4.5188669653802e-10	<0.001	GO:0000472	endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+26	35	0.952501797452473	4.5188669653802e-10	<0.001	GO:0006270	DNA replication initiation
+53	72	0.952203918001458	5.97233229509125e-19	<0.001	GO:0000725	recombinational repair
+1014	1877	0.950619797793451	4.17651072440535e-268	<0.001	GO:0006725	cellular aromatic compound metabolic process
+34	46	0.949916935106765	1.10228938170087e-12	<0.001	GO:0033750	ribosome localization
+23	31	0.947859790143848	4.94163001500437e-09	<0.001	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+23	31	0.947859790143848	4.94163001500437e-09	<0.001	GO:0016075	rRNA catabolic process
+23	31	0.947859790143848	4.94163001500437e-09	<0.001	GO:0046982	protein heterodimerization activity
+12	16	0.947133791737145	2.38907010699569e-05	0.027	GO:0048471	perinuclear region of cytoplasm
+389	568	0.946747134865096	2.58831730007271e-124	<0.001	GO:0003677	DNA binding
+31	42	0.945847404837839	1.19875394279959e-11	<0.001	GO:0007062	sister chromatid cohesion
+44	60	0.942413966841164	7.7729039280027e-16	<0.001	GO:0000777	condensed chromosome kinetochore
+20	27	0.942136448431332	5.4247748013949e-08	0.001	GO:0016073	snRNA metabolic process
+218	308	0.941257025359494	4.23545580119703e-71	<0.001	GO:0045934	negative regulation of nucleobase-containing compound metabolic process
+77	106	0.939521012283389	2.14657466642966e-26	<0.001	GO:0006302	double-strand break repair
+1012	1893	0.937217744391123	1.00724813227338e-261	<0.001	GO:0046483	heterocycle metabolic process
+17	23	0.934803205746293	5.99155007161677e-07	0.001	GO:0001102	RNA polymerase II activating transcription factor binding
+17	23	0.934803205746293	5.99155007161677e-07	0.001	GO:0042162	telomeric DNA binding
+38	52	0.934074674310583	9.17088084152717e-14	<0.001	GO:0051170	nuclear import
+38	52	0.934074674310583	9.17088084152717e-14	<0.001	GO:1902593	single-organism nuclear import
+30	41	0.931549648426939	3.7490398407247e-11	<0.001	GO:0030466	chromatin silencing at silent mating-type cassette
+139	195	0.928906186656012	1.53528476924389e-45	<0.001	GO:0042254	ribosome biogenesis
+70	97	0.92700849004105	8.25753517823963e-24	<0.001	GO:0000375	RNA splicing, via transesterification reactions
+27	37	0.925320140887881	4.06742217841236e-10	<0.001	GO:0000966	RNA 5'-end processing
+251	361	0.924764009005812	1.06537923770602e-79	<0.001	GO:0010628	positive regulation of gene expression
+119	167	0.922584691133365	5.48028383584938e-39	<0.001	GO:0003690	double-stranded DNA binding
+197	281	0.920880966465071	6.54659198034595e-63	<0.001	GO:0010629	negative regulation of gene expression
+19	26	0.920132228595389	1.69738590465853e-07	0.001	GO:0006271	DNA strand elongation involved in DNA replication
+546	849	0.917621040149914	4.70687193820601e-163	<0.001	GO:0010468	regulation of gene expression
+39	54	0.916446753061752	8.13608477627684e-14	<0.001	GO:0034504	protein localization to nucleus
+252	365	0.914917047481907	5.47363057673687e-79	<0.001	GO:0010557	positive regulation of macromolecule biosynthetic process
+557	872	0.91311213183019	7.34865440553165e-165	<0.001	GO:2000112	regulation of cellular macromolecule biosynthetic process
+143	203	0.912355733215606	7.64448155947648e-46	<0.001	GO:0006397	mRNA processing
+1015	1950	0.909243210393791	4.96491027353451e-249	<0.001	GO:1901360	organic cyclic compound metabolic process
+16	22	0.908964690993994	1.86990099418845e-06	0.001	GO:0030174	regulation of DNA-dependent DNA replication initiation
+26	36	0.908947035893814	1.25621128509873e-09	<0.001	GO:1903309	negative regulation of chromatin modification
+152	217	0.906637420218089	3.08774858040511e-48	<0.001	GO:0022613	ribonucleoprotein complex biogenesis
+43	60	0.906610382849793	6.59986569106976e-15	<0.001	GO:0000724	double-strand break repair via homologous recombination
+562	886	0.906125200910801	1.90770897760274e-164	<0.001	GO:0010556	regulation of macromolecule biosynthetic process
+207	300	0.900799648633138	2.86316853986227e-64	<0.001	GO:2000113	negative regulation of cellular macromolecule biosynthetic process
+30	42	0.895248371446802	1.01220675794493e-10	<0.001	GO:0060968	regulation of gene silencing
+92	131	0.893155814018205	1.69780501493039e-29	<0.001	GO:0050658	RNA transport
+92	131	0.893155814018205	1.69780501493039e-29	<0.001	GO:0051236	establishment of RNA localization
+201	293	0.890871755073807	1.1285963556513e-61	<0.001	GO:0016071	mRNA metabolic process
+100	143	0.88932964597628	9.60804730253413e-32	<0.001	GO:0008380	RNA splicing
+20	28	0.887689754849325	1.47011673694561e-07	0.001	GO:0006301	postreplication repair
+211	309	0.887315710491519	2.76169864246029e-64	<0.001	GO:0010558	negative regulation of macromolecule biosynthetic process
+174	253	0.886695212696842	1.85827302900382e-53	<0.001	GO:0051276	chromosome organization
+581	936	0.886455510559009	2.96564479822e-164	<0.001	GO:0051171	regulation of nitrogen compound metabolic process
+529	839	0.885990868248345	2.9889203078161e-151	<0.001	GO:0019438	aromatic compound biosynthetic process
+571	918	0.885084155588846	1.80297794510792e-161	<0.001	GO:0031326	regulation of cellular biosynthetic process
+571	919	0.883740480343696	3.92319825734709e-161	<0.001	GO:0009889	regulation of biosynthetic process
+15	21	0.881528220802863	5.74397185810054e-06	0.004	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+15	21	0.881528220802863	5.74397185810054e-06	0.004	GO:0070651	nonfunctional rRNA decay
+193	283	0.880371696953626	1.68600715067141e-58	<0.001	GO:0006281	DNA repair
+255	380	0.876315325259714	8.23576930133575e-76	<0.001	GO:0009891	positive regulation of biosynthetic process
+255	380	0.876315325259714	8.23576930133575e-76	<0.001	GO:0031328	positive regulation of cellular biosynthetic process
+24	34	0.874295241652872	1.16033998169229e-08	<0.001	GO:0008186	RNA-dependent ATPase activity
+92	133	0.871525556101257	1.08427057954535e-28	<0.001	GO:0050657	nucleic acid transport
+37	53	0.866062557674122	1.94241994679738e-12	<0.001	GO:0032040	small-subunit processome
+19	27	0.865685535013381	4.43867560373491e-07	0.001	GO:0000018	regulation of DNA recombination
+19	27	0.865685535013381	4.43867560373491e-07	0.001	GO:0006403	RNA localization
+19	27	0.865685535013381	4.43867560373491e-07	0.001	GO:0007064	mitotic sister chromatid cohesion
+28	40	0.865219876697477	9.19099634379023e-10	<0.001	GO:0031935	regulation of chromatin silencing
+30	43	0.861735493348847	2.58626511854024e-10	<0.001	GO:0090329	regulation of DNA-dependent DNA replication
+21	30	0.860265781873653	1.23904231474695e-07	0.001	GO:0000463	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+56	81	0.859732240451221	7.12709422679014e-18	<0.001	GO:0000469	cleavage involved in rRNA processing
+529	858	0.858389868753625	7.53939267505013e-145	<0.001	GO:0018130	heterocycle biosynthetic process
+85	124	0.856890802717286	3.85393714562848e-26	<0.001	GO:0051168	nuclear export
+23	33	0.855911299495886	3.46542055825746e-08	0.001	GO:0070192	chromosome organization involved in meiotic cell cycle
+260	394	0.85552030389037	5.98426654767836e-75	<0.001	GO:0051173	positive regulation of nitrogen compound metabolic process
+220	332	0.849369052620031	2.0389710353472e-63	<0.001	GO:0009890	negative regulation of biosynthetic process
+220	332	0.849369052620031	2.0389710353472e-63	<0.001	GO:0031327	negative regulation of cellular biosynthetic process
+223	337	0.84838856341215	3.82318617860432e-64	<0.001	GO:0051172	negative regulation of nitrogen compound metabolic process
+16	23	0.846727771233585	4.77248566972602e-06	0.002	GO:0031125	rRNA 3'-end processing
+62	91	0.841679738621655	3.75617843642827e-19	<0.001	GO:0006405	RNA export from nucleus
+1500	5572	0.838243207098565	7.42648865708332e-57	<0.001	GO:0008150	biological_process
+24	35	0.834697614321316	2.85739552737378e-08	0.001	GO:0000778	condensed nuclear chromosome kinetochore
+24	35	0.834697614321316	2.85739552737378e-08	0.001	GO:0006261	DNA-dependent DNA replication
+38	56	0.827914201448778	3.88417071958805e-12	<0.001	GO:0034399	nuclear periphery
+64	95	0.827278696772576	2.46880521629331e-19	<0.001	GO:0000956	nuclear-transcribed mRNA catabolic process
+50	74	0.826690356901873	1.88018561064395e-15	<0.001	GO:0032200	telomere organization
+110	165	0.826663684061504	6.82997063424521e-32	<0.001	GO:0006913	nucleocytoplasmic transport
+640	1108	0.825057940138759	1.11785124979977e-160	<0.001	GO:0060255	regulation of macromolecule metabolic process
+15	22	0.819291301042454	1.40386898649851e-05	0.014	GO:0070481	nuclear-transcribed mRNA catabolic process, non-stop decay
+110	166	0.818818303322619	1.56627791538054e-31	<0.001	GO:0051169	nuclear transport
+17	25	0.818119592403877	3.866209502499e-06	0.002	GO:0008298	intracellular mRNA localization
+49	73	0.817713485281628	5.42218126664563e-15	<0.001	GO:0000723	telomere maintenance
+49	73	0.817713485281628	5.42218126664563e-15	<0.001	GO:0060249	anatomical structure homeostasis
+19	28	0.817291805924079	1.07005169400953e-06	0.001	GO:0042274	ribosomal small subunit biogenesis
+19	28	0.817291805924079	1.07005169400953e-06	0.001	GO:0060969	negative regulation of gene silencing
+23	34	0.81631367216433	8.29509012057228e-08	0.001	GO:0000429	carbon catabolite regulation of transcription from RNA polymerase II promoter
+27	40	0.815908358478233	6.47658441159078e-09	<0.001	GO:0008094	DNA-dependent ATPase activity
+31	46	0.815857019976485	5.08053214726381e-10	<0.001	GO:0000447	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+31	46	0.815857019976485	5.08053214726381e-10	<0.001	GO:0042273	ribosomal large subunit biogenesis
+64	96	0.813616418119882	5.70755388737241e-19	<0.001	GO:0006402	mRNA catabolic process
+79	119	0.812561327330476	5.6665907618072e-23	<0.001	GO:0006401	RNA catabolic process
+642	1126	0.811214325750424	4.20114347916464e-157	<0.001	GO:0080090	regulation of primary metabolic process
+533	901	0.811058774947065	1.16754500885265e-134	<0.001	GO:1901362	organic cyclic compound biosynthetic process
+650	1148	0.806704710882148	2.48653228539526e-157	<0.001	GO:0031323	regulation of cellular metabolic process
+77	117	0.800903209881363	4.63243207647658e-22	<0.001	GO:0051052	regulation of DNA metabolic process
+47	71	0.799221094172015	4.415237803768e-14	<0.001	GO:0071103	DNA conformation change
+22	33	0.797142795789922	2.37580825876058e-07	0.001	GO:0003688	DNA replication origin binding
+289	462	0.797129786499782	1.36897750439355e-75	<0.001	GO:0010604	positive regulation of macromolecule metabolic process
+20	30	0.795741264201363	8.53677475745223e-07	0.001	GO:0004004	ATP-dependent RNA helicase activity
+18	27	0.794144139687548	3.07218849388985e-06	0.002	GO:0045815	positive regulation of gene expression, epigenetic
+209	329	0.792986876150729	2.04540271216073e-55	<0.001	GO:0006974	cellular response to DNA damage stimulus
+70	107	0.791415109023909	6.17721428847482e-20	<0.001	GO:0007059	chromosome segregation
+14	21	0.790043566848548	4.0501390598905e-05	0.045	GO:1902554	serine/threonine protein kinase complex
+1026	2216	0.789392406451312	3.41283897750274e-195	<0.001	GO:0034641	cellular nitrogen compound metabolic process
+25	38	0.782543463474324	5.23259314388862e-08	0.001	GO:0000470	maturation of LSU-rRNA
+30	46	0.774317840009973	3.22226073239848e-09	<0.001	GO:0051053	negative regulation of DNA metabolic process
+19	29	0.77373704436542	2.40960175736403e-06	0.001	GO:0008608	attachment of spindle microtubules to kinetochore
+19	29	0.77373704436542	2.40960175736403e-06	0.001	GO:0034453	microtubule anchoring
+28	43	0.77153076881626	1.14753979298648e-08	<0.001	GO:0010565	regulation of cellular ketone metabolic process
+44	68	0.770017746608744	9.6985158004533e-13	<0.001	GO:0043543	protein acylation
+17	26	0.769725863314574	8.68575480284612e-06	0.007	GO:0006303	double-strand break repair via nonhomologous end joining
+17	26	0.769725863314574	8.68575480284612e-06	0.007	GO:0031936	negative regulation of chromatin silencing
+87	136	0.768623557234422	1.67857346889401e-23	<0.001	GO:0034655	nucleobase-containing compound catabolic process
+26	40	0.768411878840373	4.089408442307e-08	0.001	GO:1901522	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus
+297	489	0.764860775582131	2.22287141252436e-73	<0.001	GO:0006259	DNA metabolic process
+15	23	0.764844607460447	3.13917769630551e-05	0.038	GO:0000793	condensed chromosome
+15	23	0.764844607460447	3.13917769630551e-05	0.038	GO:0000794	condensed nuclear chromosome
+15	23	0.764844607460447	3.13917769630551e-05	0.038	GO:0043570	maintenance of DNA repeat elements
+29	45	0.759553164265067	8.91470359575263e-09	<0.001	GO:0008026	ATP-dependent helicase activity
+29	45	0.759553164265067	8.91470359575263e-09	<0.001	GO:0070035	purine NTP-dependent helicase activity
+253	416	0.753874164387033	5.04976994643786e-62	<0.001	GO:0010605	negative regulation of macromolecule metabolic process
+37	58	0.750661879531392	1.19049942965596e-10	<0.001	GO:0000478	endonucleolytic cleavage involved in rRNA processing
+37	58	0.750661879531392	1.19049942965596e-10	<0.001	GO:0000479	endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+18	28	0.750589378128889	6.68685937870173e-06	0.004	GO:0000726	non-recombinational repair
+294	490	0.750113024144718	8.34285405682581e-71	<0.001	GO:0031325	positive regulation of cellular metabolic process
+21	33	0.7408121160033	1.4285226398444e-06	0.001	GO:0070784	regulation of growth of unicellular organism as a thread of attached cells
+131	212	0.739427885313827	1.00663601257807e-32	<0.001	GO:0044877	macromolecular complex binding
+19	30	0.734139417033864	5.09656081800666e-06	0.003	GO:0090503	RNA phosphodiester bond hydrolysis, exonucleolytic
+24	38	0.733760084599431	3.06201555230089e-07	0.001	GO:0045990	carbon catabolite regulation of transcription
+207	343	0.732564378588793	1.58658520314954e-49	<0.001	GO:0005730	nucleolus
+1039	2394	0.729700017008853	2.56363646002285e-169	<0.001	GO:0006807	nitrogen compound metabolic process
+265	447	0.728522072623594	7.93519469237676e-62	<0.001	GO:0031324	negative regulation of cellular metabolic process
+17	27	0.726171101755915	1.82181664900994e-05	0.019	GO:2001252	positive regulation of chromosome organization
+684	1328	0.719424121095198	5.02383943192386e-137	<0.001	GO:0019222	regulation of metabolic process
+26	42	0.712117600145291	1.75222900186337e-07	0.001	GO:0098813	nuclear chromosome segregation
+471	855	0.711545306559669	3.42141237237053e-100	<0.001	GO:0043933	macromolecular complex subunit organization
+18	29	0.710991750797333	1.36842454547269e-05	0.014	GO:0004536	deoxyribonuclease activity
+1118	2781	0.706906544832641	8.42647041029926e-157	<0.001	GO:0044260	cellular macromolecule metabolic process
+107	178	0.702347983164387	2.06852111582794e-25	<0.001	GO:0015931	nucleobase-containing compound transport
+270	468	0.700349089779596	1.39917687650715e-59	<0.001	GO:0009892	negative regulation of metabolic process
+25	41	0.69512581013545	4.60202660204631e-07	0.001	GO:1900428	regulation of filamentous growth of a population of unicellular organisms
+104	175	0.689149770473701	3.67798708255214e-24	<0.001	GO:0030684	preribosome
+38	63	0.687920736692092	7.22765819076811e-10	<0.001	GO:0005635	nuclear envelope
+26	43	0.68647429984554	3.42548349303703e-07	0.001	GO:0010570	regulation of filamentous growth
+92	155	0.684823203595287	1.99097880288485e-21	<0.001	GO:0019439	aromatic compound catabolic process
+1201	3257	0.683644183737627	1.32294792239223e-138	<0.001	GO:0044238	primary metabolic process
+1128	2887	0.683599697139128	3.07397078997142e-146	<0.001	GO:0043170	macromolecule metabolic process
+39	65	0.682550616075056	5.37660178486245e-10	<0.001	GO:0006275	regulation of DNA replication
+27	45	0.678624510972636	2.54078227192496e-07	0.001	GO:0032508	DNA duplex unwinding
+112	191	0.676822988081388	2.91548801532389e-25	<0.001	GO:0090501	RNA phosphodiester bond hydrolysis
+941	2160	0.671933157787658	3.50656585334742e-144	<0.001	GO:0032991	macromolecular complex
+28	47	0.671471035653748	1.87880858453893e-07	0.001	GO:0007131	reciprocal meiotic recombination
+28	47	0.671471035653748	1.87880858453893e-07	0.001	GO:0035825	reciprocal DNA recombination
+93	159	0.66947421703793	5.08879491095626e-21	<0.001	GO:0044270	cellular nitrogen compound catabolic process
+98	168	0.667870404695752	5.61632635651625e-22	<0.001	GO:0008270	zinc ion binding
+22	37	0.667152410928568	4.1292017195783e-06	0.002	GO:0003724	RNA helicase activity
+39	66	0.666374416785956	1.0131790253484e-09	<0.001	GO:0046983	protein dimerization activity
+93	160	0.662901968222717	9.37937121954415e-21	<0.001	GO:0046700	heterocycle catabolic process
+70	120	0.6609889863124	5.16728402608477e-16	<0.001	GO:0033044	regulation of chromosome organization
+308	561	0.659249882952743	1.17495970468972e-61	<0.001	GO:0048523	negative regulation of cellular process
+334	613	0.658779512682252	3.10799257057955e-66	<0.001	GO:0006396	RNA processing
+27	46	0.655672395532459	4.75310053721719e-07	0.001	GO:0032392	DNA geometric change
+125	219	0.651854069660189	1.38332875286508e-26	<0.001	GO:0006310	DNA recombination
+714	1509	0.64632205578132	1.58966086858918e-118	<0.001	GO:0043234	protein complex
+156	277	0.645722403437406	3.65613011156836e-32	<0.001	GO:0044085	cellular component biogenesis
+314	582	0.643354730783256	1.47963991564018e-60	<0.001	GO:0048519	negative regulation of biological process
+86	151	0.640258331239108	1.73216456158854e-18	<0.001	GO:0006260	DNA replication
+59	103	0.639556689004835	3.27070106075058e-13	<0.001	GO:0004386	helicase activity
+47	82	0.637175044315118	8.41542475858352e-11	<0.001	GO:0030687	preribosome, large subunit precursor
+721	1543	0.636864786274339	2.32492505605242e-116	<0.001	GO:0050794	regulation of cellular process
+85	150	0.634910468475767	4.26275965524365e-18	<0.001	GO:0022618	ribonucleoprotein complex assembly
+31	54	0.634406922527122	1.35795529854809e-07	0.001	GO:1903320	regulation of protein modification by small protein conjugation or removal
+23	40	0.633438563447613	5.52337084082913e-06	0.003	GO:0003697	single-stranded DNA binding
+45	79	0.630411590018915	2.82941860058947e-10	<0.001	GO:0030686	90S preribosome
+90	160	0.628685813303573	8.30307675249955e-19	<0.001	GO:0071826	ribonucleoprotein complex subunit organization
+78	139	0.623461028933663	2.28258610281037e-16	<0.001	GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic
+93	167	0.619418095115676	5.37839966540262e-19	<0.001	GO:1901361	organic cyclic compound catabolic process
+143	262	0.611400479984442	1.4590139281196e-27	<0.001	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+316	606	0.610538847271773	2.1482300328437e-56	<0.001	GO:0048522	positive regulation of cellular process
+747	1676	0.601487192814928	7.10462109931015e-108	<0.001	GO:0050789	regulation of biological process
+94	172	0.601263224983512	1.94196545734545e-18	<0.001	GO:0018193	peptidyl-amino acid modification
+60	109	0.600393817175404	2.20039355115678e-12	<0.001	GO:0061695	transferase complex, transferring phosphorus-containing groups
+20	36	0.598911828452841	4.50788011226192e-05	0.046	GO:0000027	ribosomal large subunit assembly
+1423	5087	0.595249169852424	1.27271421205444e-55	<0.001	GO:0009987	cellular process
+327	641	0.592537265383592	1.38070203844922e-55	<0.001	GO:0009893	positive regulation of metabolic process
+47	86	0.590448009895521	7.65719915555416e-10	<0.001	GO:0051656	establishment of organelle localization
+313	615	0.58662778382553	1.08376159835981e-52	<0.001	GO:0051716	cellular response to stimulus
+24	44	0.582838995785588	1.19778104918072e-05	0.013	GO:0006479	protein methylation
+24	44	0.582838995785588	1.19778104918072e-05	0.013	GO:0008213	protein alkylation
+69	128	0.582455372499873	1.88252350817329e-13	<0.001	GO:0016779	nucleotidyltransferase activity
+288	567	0.578318363719117	6.34348945991935e-48	<0.001	GO:0033554	cellular response to stress
+66	123	0.577438546801476	8.49805518333727e-13	<0.001	GO:0008033	tRNA processing
+44	82	0.572470629127628	5.74326582854437e-09	<0.001	GO:2001251	negative regulation of chromosome organization
+275	545	0.568882617490606	6.89963260726162e-45	<0.001	GO:0034660	ncRNA metabolic process
+31	58	0.56578468370069	1.16701903569177e-06	0.001	GO:0040008	regulation of growth
+23	43	0.564455053628603	2.78035609831458e-05	0.033	GO:1902911	protein kinase complex
+24	45	0.56206512776162	1.98716092956234e-05	0.021	GO:0031396	regulation of protein ubiquitination
+1204	3623	0.558322519071359	3.16251284011012e-91	<0.001	GO:0044237	cellular metabolic process
+246	491	0.555222837641675	3.27196870813772e-39	<0.001	GO:0065003	macromolecular complex assembly
+222	441	0.553819593435466	1.20709191213003e-35	<0.001	GO:0034470	ncRNA processing
+790	1910	0.547229408683859	3.78230395205357e-94	<0.001	GO:0065007	biological regulation
+35	67	0.545854711525353	4.97172564493615e-07	0.001	GO:0032984	macromolecular complex disassembly
+1206	3675	0.543831318055093	3.35586433829482e-86	<0.001	GO:0071704	organic substance metabolic process
+23	44	0.543681185604634	4.51316987791793e-05	0.048	GO:0040020	regulation of meiotic nuclear division
+219	440	0.542813928797618	3.45389558895072e-34	<0.001	GO:0034622	cellular macromolecular complex assembly
+165	327	0.542801782047277	1.56865228137538e-26	<0.001	GO:0006364	rRNA processing
+172	342	0.541396653329827	1.95459696359063e-27	<0.001	GO:0016072	rRNA metabolic process
+41	79	0.541290704279558	6.65946044041472e-08	0.001	GO:0030490	maturation of SSU-rRNA
+29	56	0.536722251544884	5.95121197367522e-06	0.004	GO:0043241	protein complex disassembly
+548	1228	0.532124875319504	1.14108610643063e-71	<0.001	GO:0044271	cellular nitrogen compound biosynthetic process
+155	313	0.523786780239887	7.82391685444827e-24	<0.001	GO:0044265	cellular macromolecule catabolic process
+350	750	0.517073939551368	7.80267079416541e-48	<0.001	GO:0048518	positive regulation of biological process
+110	223	0.510714656275189	5.78685116599975e-17	<0.001	GO:0046914	transition metal ion binding
+38	76	0.507837057901965	6.96575379650255e-07	0.001	GO:0031967	organelle envelope
+38	76	0.507837057901965	6.96575379650255e-07	0.001	GO:0031975	envelope
+1229	3918	0.504167542276923	2.36323306547364e-71	<0.001	GO:0008152	metabolic process
+797	2023	0.503455078619972	1.79514999577558e-81	<0.001	GO:0071840	cellular component organization or biogenesis
+1049	3005	0.502129797092058	5.9331525727011e-83	<0.001	GO:0044446	intracellular organelle part
+66	134	0.500425307584877	1.29236037232689e-10	<0.001	GO:0051321	meiotic cell cycle
+306	662	0.497876001054862	3.21225583837244e-40	<0.001	GO:0006950	response to stress
+38	77	0.496611091106588	1.06100700316039e-06	0.001	GO:0080135	regulation of cellular response to stress
+1049	3020	0.496583425231443	3.51673404526046e-81	<0.001	GO:0044422	organelle part
+43	88	0.48913208499624	2.97681133721004e-07	0.001	GO:0032403	protein complex binding
+42	86	0.48848351872366	4.16493027216517e-07	0.001	GO:0080134	regulation of response to stress
+152	321	0.484236769248383	6.64000689256326e-21	<0.001	GO:1990234	transferase complex
+626	1523	0.482090141542933	1.78104486436312e-66	<0.001	GO:0003676	nucleic acid binding
+157	334	0.47904490157635	3.58484383162581e-21	<0.001	GO:0009057	macromolecule catabolic process
+64	134	0.473897015343433	1.25286453941941e-09	<0.001	GO:0051640	organelle localization
+38	80	0.464550343682254	3.48783521532664e-06	0.002	GO:0071897	DNA biosynthetic process
+36	76	0.461919118335909	6.80492414961644e-06	0.004	GO:0004521	endoribonuclease activity
+32	68	0.455879308675801	2.59053695157603e-05	0.031	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+215	478	0.454182016033099	9.70284190911018e-26	<0.001	GO:1902494	catalytic complex
+31	66	0.454173326331555	3.61881806020266e-05	0.043	GO:0060341	regulation of cellular localization
+92	200	0.448095650113842	4.13974840916543e-12	<0.001	GO:0043632	modification-dependent macromolecule catabolic process
+33	71	0.445981165669788	2.67685855951649e-05	0.032	GO:0016893	endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters
+571	1424	0.443497475343802	2.67619863805545e-54	<0.001	GO:0009059	macromolecule biosynthetic process
+343	799	0.443478501152965	7.04402645288466e-37	<0.001	GO:0050896	response to stimulus
+82	179	0.442850004913953	8.20970530532807e-11	<0.001	GO:0006399	tRNA metabolic process
+42	92	0.433013603022257	3.93141332511062e-06	0.002	GO:0004540	ribonuclease activity
+106	236	0.431327428749333	6.0285583663133e-13	<0.001	GO:0051726	regulation of cell cycle
+177	401	0.430898064579954	4.37936091556769e-20	<0.001	GO:0007049	cell cycle
+556	1400	0.430870993599772	8.93304355492101e-51	<0.001	GO:0034645	cellular macromolecule biosynthetic process
+86	192	0.425440402201916	1.19757187520514e-10	<0.001	GO:0010564	regulation of cell cycle process
+42	94	0.415966013038262	7.71715385651011e-06	0.006	GO:0019899	enzyme binding
+66	149	0.413075053799941	3.09940255667672e-08	0.001	GO:0004518	nuclease activity
+64	145	0.409935334118142	5.92435408863667e-08	0.001	GO:0051129	negative regulation of cellular component organization
+53	120	0.408629892141461	7.96322849378897e-07	0.001	GO:0004519	endonuclease activity
+685	1852	0.405378056213949	1.10985911889768e-51	<0.001	GO:0016043	cellular component organization
+37	84	0.40407926747957	3.90603026808972e-05	0.044	GO:0000226	microtubule cytoskeleton organization
+60	137	0.403175741875419	2.1520484251363e-07	0.001	GO:0010639	negative regulation of organelle organization
+55	126	0.399789293380662	7.84676997982718e-07	0.001	GO:0010498	proteasomal protein catabolic process
+76	175	0.399278307737432	8.07785960859328e-09	<0.001	GO:0031399	regulation of protein modification process
+54	125	0.391601143966309	1.46636200256691e-06	0.001	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process
+45	104	0.391469994173025	1.03714125424637e-05	0.011	GO:0007017	microtubule-based process
+62	144	0.390282208015762	2.84494791241294e-07	0.001	GO:0032446	protein modification by small protein conjugation
+77	180	0.387734264096136	1.44732627738529e-08	<0.001	GO:0070647	protein modification by small protein conjugation or removal
+417	1062	0.386446104702533	2.24214264585037e-34	<0.001	GO:0043228	non-membrane-bounded organelle
+417	1062	0.386446104702533	2.24214264585037e-34	<0.001	GO:0043232	intracellular non-membrane-bounded organelle
+116	274	0.386352079407459	6.19195110904302e-12	<0.001	GO:1903047	mitotic cell cycle process
+268	657	0.385630962830661	4.59010404294669e-24	<0.001	GO:0022607	cellular component assembly
+228	556	0.381986655415362	1.01481838791108e-20	<0.001	GO:0022402	cell cycle process
+43	101	0.378819673563018	2.63155237156955e-05	0.031	GO:0045786	negative regulation of cell cycle
+51	121	0.372345159444601	6.78619703570467e-06	0.004	GO:0051783	regulation of nuclear division
+53	126	0.371105205084941	4.8303418725547e-06	0.002	GO:0031329	regulation of cellular catabolic process
+999	3167	0.361795040635893	8.62686754468387e-45	<0.001	GO:0005488	binding
+54	130	0.361794488642681	6.18069852548438e-06	0.004	GO:0051247	positive regulation of protein metabolic process
+313	806	0.355580540289591	5.62822524695772e-24	<0.001	GO:1902589	single-organism organelle organization
+73	178	0.355043173136809	2.69987836882644e-07	0.001	GO:0006511	ubiquitin-dependent protein catabolic process
+73	178	0.355043173136809	2.69987836882644e-07	0.001	GO:0019941	modification-dependent protein catabolic process
+53	129	0.35346029556968	1.09979748315241e-05	0.012	GO:0032270	positive regulation of cellular protein metabolic process
+54	132	0.350405630890845	1.05718507074353e-05	0.011	GO:0009894	regulation of catabolic process
+64	157	0.349195255816198	1.89115330189557e-06	0.001	GO:0030163	protein catabolic process
+56	139	0.339372371468981	1.25481633262205e-05	0.013	GO:0051302	regulation of cell division
+395	1063	0.33696916796581	2.8337188111514e-26	<0.001	GO:0006996	organelle organization
+741	2205	0.334193282602203	8.56385871448513e-38	<0.001	GO:1901363	heterocyclic compound binding
+742	2216	0.331093530027194	3.52791894130167e-37	<0.001	GO:0097159	organic cyclic compound binding
+274	723	0.329220433362082	4.78699118713575e-19	<0.001	GO:0005515	protein binding
+113	289	0.325738090897452	3.77830921203219e-09	<0.001	GO:0071705	nitrogen compound transport
+76	193	0.325427245596665	1.05519052840018e-06	0.001	GO:0051603	proteolysis involved in cellular protein catabolic process
+162	423	0.318095566641259	8.29906521362623e-12	<0.001	GO:0051128	regulation of cellular component organization
+67	172	0.31629118442563	7.09314727567589e-06	0.005	GO:0003729	mRNA binding
+67	172	0.31629118442563	7.09314727567589e-06	0.005	GO:0044822	poly(A) RNA binding
+121	314	0.316247314805676	2.91257651612017e-09	<0.001	GO:0033043	regulation of organelle organization
+86	223	0.311661288207351	5.93969651787286e-07	0.001	GO:0051301	cell division
+179	487	0.290464097512896	3.70968163314455e-11	<0.001	GO:0044248	cellular catabolic process
+629	1927	0.279161980408173	1.42925237621549e-25	<0.001	GO:0044249	cellular biosynthetic process
+122	337	0.271305326592959	1.68657313125379e-07	0.001	GO:0044702	single organism reproductive process
+283	813	0.266362843054473	6.33055376319884e-14	<0.001	GO:0043169	cation binding
+253	723	0.265640216127975	9.81334105442226e-13	<0.001	GO:0030529	intracellular ribonucleoprotein complex
+253	723	0.265640216127975	9.81334105442226e-13	<0.001	GO:1990904	ribonucleoprotein complex
+143	400	0.265231822598518	3.40004353798983e-08	0.001	GO:0071822	protein complex subunit organization
+280	808	0.262550023474832	1.68113400043201e-13	<0.001	GO:0046872	metal ion binding
+633	1979	0.262202228005861	5.69957513322108e-23	<0.001	GO:1901576	organic substance biosynthetic process
+639	2010	0.258099713330936	1.93762851731399e-22	<0.001	GO:0009058	biosynthetic process
+698	2274	0.239121208856739	2.56991247916232e-20	<0.001	GO:0005737	cytoplasm
+232	693	0.230347156376015	1.41506014518923e-09	<0.001	GO:0006464	cellular protein modification process
+232	693	0.230347156376015	1.41506014518923e-09	<0.001	GO:0036211	protein modification process
+181	536	0.229846648098531	5.99070436948701e-08	0.001	GO:0051641	cellular localization
+116	343	0.223014507275972	1.56409821621046e-05	0.014	GO:0032268	regulation of cellular protein metabolic process
+117	349	0.217122851637564	2.25872251791607e-05	0.027	GO:0051246	regulation of protein metabolic process
+276	854	0.210669090467641	1.80484778547788e-09	<0.001	GO:0043412	macromolecule modification
+183	566	0.199625875678903	1.51463373636161e-06	0.001	GO:1901575	organic substance catabolic process
+146	450	0.197906202063805	1.55981186436262e-05	0.014	GO:0022414	reproductive process
+1219	4685	0.187211295840447	1.6833749858439e-10	<0.001	GO:0003674	molecular_function
+462	1565	0.166091812497492	4.38215918331138e-09	<0.001	GO:0043167	ion binding
