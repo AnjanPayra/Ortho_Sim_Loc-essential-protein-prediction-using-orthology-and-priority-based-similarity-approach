@@ -1,0 +1,3 @@
+low threshold,6.97453743774e+14
+medium threshold,1.28963561662e+15
+high threshold,1.88181748947e+15
