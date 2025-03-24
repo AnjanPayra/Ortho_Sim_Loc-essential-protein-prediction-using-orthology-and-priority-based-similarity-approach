@@ -8,8 +8,6 @@ Created on Mon Aug 05 12:23:48 2019
 from Bio.SeqUtils.ProtParam import ProteinAnalysis
 from Bio import SeqIO
 
-#file_input=open('C:\\Users\\Sovan\\PycharmProjects\\Funpred2\\input\\entry locus mapping.txt','r')
-#prtns=file_input.readlines()
 
 file_output1=open('D:\\Essential protein prediction\\input\\YDIP\\Physico_chemical.txt','w')
 #file_output1.writelines('aromacity' + '|' + 'gravy' + '|' + 'instability index' + '|' + 'isoelectric point' + '|' + 'negatively charged particle' + '|' + 'positively charged particle' + '|' + 'extinction coefficient' + '|' + 'aliphatic index' + '|' + 'absorbance' + '|' + 'ip/mol weight' + '|' + 'proteins' + '|' + '\n')
